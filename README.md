@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/osgi-vaadin-servlet-publisher)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/osgi-vaadin-servlet-publisher.svg)](https://vaadin.com/directory/component/osgi-vaadin-servlet-publisher)
+
 # OSGi Vaadin Dashboard Experiment
 
 ## Introduction
